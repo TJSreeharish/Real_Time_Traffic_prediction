@@ -21,7 +21,7 @@ Key features include traffic pattern prediction using ARIMA and Prophet models, 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/yukthi.git
+git clone https://github.com/TJSreeharish/yukthi.git
 cd yukthi
 ```
 
