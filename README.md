@@ -1,10 +1,5 @@
 # Yukthi - Smart Traffic Management System
 
-![Yukthi Demo](Sample_working_Arima_model.png)
-
-## 🎥 Demo
-
-https://github.com/TJSreeharish/yukthi/assets/Sample_working_Arima_model.mp4
 
 ## 📸 Demo Screenshots & Video
 
