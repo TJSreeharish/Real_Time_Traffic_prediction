@@ -4,12 +4,11 @@
 
 ## 🎥 Demo
 
-https://github.com/yourusername/yukthi/assets/Sample_working_Arima_model.mp4
+https://github.com/TJSreeharish/yukthi/assets/Sample_working_Arima_model.mp4
 
 ## 📸 Demo Screenshots & Video
 
-### Welcome Page
-![Welcome Page](home_page_image2.jpg)
+
 
 ### Sample ARIMA Model Working
 ![ARIMA Model](Sample_working_Arima_model.png)
